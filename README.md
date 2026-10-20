@@ -57,9 +57,9 @@
 <!-- ✏️ EDIT: LinkedIn URL, email, portfolio URL -->
 <a href="https://www.linkedin.com/in/mahi-rejone"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
+<a href="mailto:mahirejone@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
 &nbsp;
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio" /></a> 
+<a href="mahi-rejone-chi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio" /></a> 
 </div>
 
 ## About Me
