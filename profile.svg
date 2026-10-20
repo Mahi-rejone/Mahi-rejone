@@ -53,19 +53,19 @@
 
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.90s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="0.90s" fill="freeze"/>
 <text x="470" y="162" font-size="14" fill="#22D3EE">Subject</text><line x1="538.8" y1="158" x2="997.4" y2="158" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="162" font-size="14" text-anchor="end" fill="#FBBF24">YOUR_FULL_NAME</text></g>
+<text x="1125" y="162" font-size="14" text-anchor="end" fill="#FBBF24">Mahi Rejone</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.02s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.02s" fill="freeze"/>
 <text x="470" y="185" font-size="14" fill="#22D3EE">Role</text><line x1="513.6" y1="181" x2="913.4" y2="181" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
 <text x="1125" y="185" font-size="14" text-anchor="end" fill="#E2E8F0">Full-Stack Web Developer</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.14s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.14s" fill="freeze"/>
 <text x="470" y="208" font-size="14" fill="#22D3EE">Origin</text><line x1="530.4" y1="204" x2="938.6" y2="204" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="208" font-size="14" text-anchor="end" fill="#FBBF24">YOUR_CITY, Bangladesh</text></g>
+<text x="1125" y="208" font-size="14" text-anchor="end" fill="#FBBF24">Uttara, Dhaka, Bangladesh</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.26s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.26s" fill="freeze"/>
 <text x="470" y="231" font-size="14" fill="#22D3EE">Education</text><line x1="555.6" y1="227" x2="1022.6" y2="227" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="231" font-size="14" text-anchor="end" fill="#FBBF24">YOUR_DEGREE</text></g>
+<text x="1125" y="231" font-size="14" text-anchor="end" fill="#FBBF24">BSc in CSE, Uttara University </text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.38s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.38s" fill="freeze"/>
 <text x="470" y="254" font-size="14" fill="#22D3EE">Status</text><line x1="530.4" y1="250" x2="888.2" y2="250" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="254" font-size="14" text-anchor="end" fill="#E2E8F0">Student | Building Projects</text></g>
+<text x="1125" y="254" font-size="14" text-anchor="end" fill="#E2E8F0">Web Developer | 1.5 yrs Experience</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.50s" fill="freeze"/>
 <text x="470" y="285" font-size="14" fill="#94A3B8">- Stack</text><line x1="537.2" y1="281" x2="1125" y2="281" stroke="rgba(148,163,184,0.35)"/></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.62s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.62s" fill="freeze"/>
@@ -87,16 +87,16 @@
 <text x="470" y="431" font-size="14" fill="#94A3B8">- Contact</text><line x1="554.0" y1="427" x2="1125" y2="427" stroke="rgba(148,163,184,0.35)"/></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.34s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.34s" fill="freeze"/>
 <text x="470" y="454" font-size="14" fill="#22D3EE">Grid.Mail</text><line x1="555.6" y1="450" x2="1031.0" y2="450" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="454" font-size="14" text-anchor="end" fill="#FBBF24">YOUR_EMAIL</text></g>
+<text x="1125" y="454" font-size="14" text-anchor="end" fill="#FBBF24">mahirejone@gmail.com</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.46s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.46s" fill="freeze"/>
 <text x="470" y="477" font-size="14" fill="#22D3EE">Grid.Portfolio</text><line x1="597.6" y1="473" x2="963.8" y2="473" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="477" font-size="14" text-anchor="end" fill="#FBBF24">YOUR_PORTFOLIO_URL</text></g>
+<text x="1125" y="477" font-size="14" text-anchor="end" fill="#FBBF24">mahirejone.vercel.app</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.58s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.58s" fill="freeze"/>
 <text x="470" y="500" font-size="14" fill="#22D3EE">Grid.LinkedIn</text><line x1="589.2" y1="496" x2="947.0" y2="496" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="500" font-size="14" text-anchor="end" fill="#FBBF24">YOUR_LINKEDIN_HANDLE</text></g>
+<text x="1125" y="500" font-size="14" text-anchor="end" fill="#FBBF24">www.linkedin.com/in/mahi-rejone-686259350</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.70s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="2.70s" fill="freeze"/>
 <text x="470" y="523" font-size="14" fill="#22D3EE">Grid.GitHub</text><line x1="572.4" y1="519" x2="938.6" y2="519" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
-<text x="1125" y="523" font-size="14" text-anchor="end" fill="#FBBF24">@YOUR_GITHUB_USERNAME</text></g>
+<text x="1125" y="523" font-size="14" text-anchor="end" fill="#FBBF24">github.com/Mahi-rejone</text></g>
 
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.12s" fill="freeze"/>
 <text x="470" y="577" font-size="14" fill="#94A3B8">&#9656; More about me &amp; projects below in README &#8595; <tspan fill="#22D3EE">&#9608;<animate attributeName="fill-opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
