@@ -110,10 +110,10 @@ A full-stack platform that connects donors, blood banks, and hospitals, with OTP
  
 <!-- ✏️ EDIT: Add your own screenshot, or delete this line -->
 <!-- ![BloodFlow screenshot](YOUR_SCREENSHOT_URL) -->
- 
+<!-- 
 ### 🚀 PROJECT_2_NAME
  
-<!-- ✏️ EDIT: Project 2 
+ ✏️ EDIT: Project 2 
 YOUR_ONE_LINE_DESCRIPTION
  
 | | |
