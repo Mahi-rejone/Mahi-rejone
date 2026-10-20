@@ -31,7 +31,11 @@
 <rect x="2" y="2" width="1176" height="46" fill="#0B1222"/>
 <line x1="2" y1="48" x2="1178" y2="48" stroke="rgba(255,255,255,0.10)"/>
 <circle cx="30" cy="25" r="5.5" fill="#ff5f56"/><circle cx="50" cy="25" r="5.5" fill="#ffbd2e"/><circle cx="70" cy="25" r="5.5" fill="#27c93f"/>
-<text x="590" y="29" text-anchor="middle" font-size="12" fill="#94A3B8">Mahi Rejone</text><text x="1125" y="106" text-anchor="end" font-size="12" fill="#F87171" font-weight="700"><tspan>&#9679;</tspan> LIVE<animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></text>
+<text x="590" y="29" text-anchor="middle" font-size="12" fill="#94A3B8">Mahi Rejone</text>
+<text x="1125" y="106" text-anchor="end" font-size="12" fill="#F87171" font-weight="700"><tspan>&#9679;</tspan> LIVE<animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></text>
+
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.90s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="0.90s" fill="freeze"/>
+<text x="470" y="162" font-size="14" fill="#22D3EE">Subject</text><line x1="538.8" y1="158" x2="997.4" y2="158" stroke="rgba(148,163,184,0.35)" stroke-dasharray="1 5" stroke-linecap="round"/>
 
 <rect x="36" y="84" width="400" height="492" rx="10" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.45" filter="url(#glow3)"/>
 <rect x="36" y="84" width="400" height="492" rx="10" fill="#0A101F" stroke="rgba(34,211,238,0.35)"/>
