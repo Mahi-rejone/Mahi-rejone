@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/mAHI-REJONE">
+  <a href="https://github.com/Mahi-rejone">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Mahi Rejone+%F0%9F%91%8B;Full-Stack+Web+Developer;Next.js+%7C+Node.js+%7C+PostgreSQL;University+Student+%7C+Always+Building" alt="Typing SVG" />
   </a>
 </div>
