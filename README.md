@@ -1,3 +1,6 @@
+   <div align="center">
+     <img src="./profile.svg" alt="Profile" width="100%" />
+   </div>
 # 💫 About Me:
 🔭 I’m currently working on ksakf<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
