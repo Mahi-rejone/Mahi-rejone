@@ -21,10 +21,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Mahi-rejone&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F"/>
+    srcset="https://github-readme-stats.vercel.app/api?username=Mahi-rejone&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500"/>
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Mahi-rejone&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF"/>
+    srcset="https://github-readme-stats.vercel.app/api?username=Mahi-rejone&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500"/>
   <img
     width="49%"
     src="https://github-readme-stats.vercel.app/api?username=Mahi-rejone&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500"
