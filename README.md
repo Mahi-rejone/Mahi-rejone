@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;AI+Engineer;SDET+%7C+Test+Automation+Engineer;Python+%7C+Java+%7C+JavaScript;LLMs+%7C+RAG+%7C+MCP+%7C+AI+Agents;Building+Reliable+AI-Powered+Engineering+Systems" alt="Typing SVG" />
 </a>
 
-<picture>
-  <!--<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_dark.svg">-->
+<!--<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_light.svg">
   <img alt="Shivamani Konam" src="https://raw.githubusercontent.com/Shivamani999/Shivamani999/main/portrait_light.svg">
-</picture>
+</picture>-->
 
 <div align="center">
 
