@@ -59,7 +59,7 @@
 &nbsp;
 <a href="mailto:mahirejone@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
 &nbsp;
-<a href="https://www.mahi-rejone-chi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio" /></a> 
+<a href="https://mahi-rejone-chi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=0A101F" alt="Portfolio" /></a> 
 </div>
 
 ## About Me
