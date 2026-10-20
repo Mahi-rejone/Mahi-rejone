@@ -1,4 +1,6 @@
-
+<div align="center">
+   <img src="./profile.svg" alt="Profile" width="100%" />
+</div>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
