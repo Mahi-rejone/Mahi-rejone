@@ -66,7 +66,11 @@
  
 <!-- ✏️ EDIT: Rewrite this section in your own words -->
 I'm a **full-stack web developer** and university student based in Bangladesh, building web applications from database to UI.
- 
+  <img
+    width="49%"
+    src="https://github.com/Mahi-rejone/Mahi-rejone/blob/main/DEVELOPER.gif"
+    alt="Top Languages"
+  />
 - 🎓 Studying: **Computer Science & Engineering / Uttara University**
 <!--- 🔨 Currently working on: **YOUR_CURRENT_PROJECT**-->
 - 🌱 Currently learning: **AI Engineering**
