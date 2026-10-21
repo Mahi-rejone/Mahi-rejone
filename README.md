@@ -64,17 +64,20 @@
 
 ## About Me
  
-<!-- ✏️ EDIT: Rewrite this section in your own words -->
-I'm a **full-stack web developer** and university student based in Bangladesh, building web applications from database to UI.
+## 👨‍💻 About Me
+
+I'm a **full-stack web developer** and CSE student at **Uttara University**, based in Bangladesh, building web apps from database to UI.
   <img
-    width="49%"
+    width="250px"
     src="https://github.com/Mahi-rejone/Mahi-rejone/blob/main/DEVELOPER.gif"
-    alt="Top Languages"
+    alt="Developer"
+    align="right"
   />
 - 🎓 Studying: **Computer Science & Engineering / Uttara University**
-<!--- 🔨 Currently working on: **YOUR_CURRENT_PROJECT**-->
+- 💻 Experienced with **C, C#, Java, and JavaScript**, and growing my skills in **Python**
+- 🩸 Built **BloodFlow**, a full-stack blood donation management platform
 - 🌱 Currently learning: **AI Engineering**
-- 🎯 Looking for opportunities to grow
+- 🎯 Looking for opportunities to grow, collaborate, and build real-world products
 
 ## Tech Stack
  
