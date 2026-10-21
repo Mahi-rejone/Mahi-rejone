@@ -144,12 +144,15 @@ YOUR_ONE_LINE_DESCRIPTION
 -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mahi-rejone&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mahi-rejone&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Mahi-rejone&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🔝 Top Contributed Repos
+
+[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Mahi-rejone&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Mahi-rejone)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mahi-rejone&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahi-rejone&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
