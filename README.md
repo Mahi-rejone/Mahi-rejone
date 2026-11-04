@@ -196,13 +196,14 @@ Add your project description here.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔝 Top Repositories
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Mahi-rejone&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🔝 Top Contributed Repositories
-
-[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Mahi-rejone&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Mahi-rejone)
+<a href="https://github.com/Mahi-rejone/Bloodflow">
+  <img width="49%" src="https://github-readme-stats-pi-eosin-21.vercel.app/api/pin/?username=Mahi-rejone&repo=bloodflow&theme=radical&hide_border=true" alt="Repo 1" />
+</a>
+<a href="https://github.com/Mahi-rejone/Mahi_Portfolio">
+  <img width="49%" src="https://github-readme-stats-pi-eosin-21.vercel.app/api/pin/?username=Mahi-rejone&repo=Mahi_Portfolio&theme=radical&hide_border=true" alt="Repo 2" />
+</a>
 
 ---
 
